@@ -5,7 +5,7 @@ const timer = document.getElementById("stopwatch");
 
 // dev button
 function button() {
-    document.getElementById("dev").innerHTML = "Sup qt my name is Fernando i made this 👁👄👁 like it?"
+    document.getElementById("dev").innerHTML = "Sup qt my name is Fernando I made this 👁👄👁 like it?"
 }
 
 // the variavles for the watch
